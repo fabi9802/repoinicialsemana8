@@ -5,4 +5,6 @@ body{
 .h1{
     font-size: medium;
     color: red;
+    font-family: 'Times New Roman', Times, serif;
+    
 }
